@@ -1,3 +1,7 @@
+# Crypto Hunt is a Cryptocurrency Tracker with React JS, Material UI and Chart JS
+
+Here real time details of the cryptocurrencies can be obtained and saved to personal reference.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
